@@ -1,282 +1,205 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-<html lang="en-US">
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> Resume || Temurbek Shukurov</title>
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin" />
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" media="print" onload="this.media='all'" />
-    <noscript>
-    <link rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&amp;family=Roboto:wght@300;400;500;700&amp;display=swap" />
-  </noscript>
-    <link href="css/font-awesome/css/all.min.css?ver=1.2.1" rel="stylesheet">
-    <link href="https://temp-rose.vercel.app/css/mdb.min.css?ver=1.2.1" rel="stylesheet">
-    <link href="https://temp-rose.vercel.app/css/main.css?ver=1.2.1" rel="stylesheet">
+<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
+<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
-</head>
+<table align="right">
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+</table>
 
-<body>
-    <div class="page-content">
-        <div class="container">
-            <div class="resume-container">
-                <div class="shadow-1-strong bg-white my-5" id="intro">
-                    <div class="bg-info text-white">
-                        <div class="cover bg-image"><img src="https://temp-rose.vercel.app/images/header-background.jpg" />
-                            <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);backdrop-filter: blur(2px);">
-                                <div class="text-center p-5">
-                                    <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="https://temp-rose.vercel.app/images/avatar/photo_2022-02-02_19-25-03.jpg" width="160" height="160" /></div>
-                                    <div class="header-bio mt-3">
-                                        <div data-aos="zoom-in" data-aos-delay="0">
-                                            <h2 class="h1">Shukurov Temurbek</h2>
-                                            <p>Fullstak Developer </p>
-                                        </div>
-                                        <div class="header-social mb-3 d-print-none" data-aos="zoom-in" data-aos-delay="200">
-                                            <nav role="navigation">
-                                                <ul class="nav justify-content-center">
-                                                    <li class="nav-item"><a class="nav-link" href="https://twitter.com/" title="Twitter"><i
-                                class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
-                                                    </li>
-                                                    <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/" title="Facebook"><i
-                                class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
-                                                    </li>
-                                                    <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/" title="Instagram"><i class="fab fa-instagram"></i><span
-                                class="menu-title sr-only">Instagram</span></a>
-                                                    </li>
-                                                    <li class="nav-item"><a class="nav-link" href="https://github.com/" title="Github"><i
-                                class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
-                                                    </li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                        <div class="d-print-none"><button type="submit" class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" data-aos="fade-right" data-aos-delay="700"><a style="color: white;" href="resum.rar">Download</a> </button>
-
-                                            <a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="shadow-1-strong bg-white my-5 p-5" id="about">
-                    <div class="about-section">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h2 class="h2 fw-light mb-4">About Me</h2>
-                                <p>Hi ! I am Temurbek. I have been programming since 2020. I usually work as a freelancer.</p>
-                            </div>
-                            <div class="col-md-5 offset-lg-1">
-                                <div class="row mt-2">
-                                    <h2 class="h2 fw-light mb-4">Bio</h2>
-                                    <div class="col-sm-5">
-                                        <div class="pb-2 fw-bolder"><i class="far fa-calendar-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Age</div>
-                                    </div>
-                                    <div class="col-sm-7">
-                                        <div class="pb-2">21+</div>
-                                    </div>
-                                    <div class="col-sm-5">
-                                        <div class="pb-2 fw-bolder"><i class="far fa-envelope pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Email</div>
-                                    </div>
-                                    <div class="col-sm-7">
-                                        <div class="pb-2">tempiltin.uz@gmail.com</div>
-                                    </div>
-
-                                    <div class="col-sm-5">
-                                        <div class="pb-2 fw-bolder"><i class="fas fa-phone pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Phone</div>
-                                    </div>
-                                    <div class="col-sm-7">
-                                        <div class="pb-2">+998-33-707-41-05</div>
-                                    </div>
-                                    <div class="col-sm-5">
-                                        <div class="pb-2 fw-bolder"><i class="fas fa-map-marker-alt pe-2 text-muted" style="width:24px;opacity:0.85;"></i> Address</div>
-                                    </div>
-                                    <div class="col-sm-7">
-                                        <div class="pb-2">Uzbekistan / Samarkhand </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="shadow-1-strong bg-white my-5 p-5" id="skills">
-                    <div class="skills-section">
-                        <h2 class="h2 fw-light mb-4">Professional Skills</h2>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <h2 class="h2 fw-light mb-4">Front end</h2>
-                                <div class="mb-3"><span class="fw-bolder">HTML</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">for front-end</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">CSS</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="200" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">for front-end</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">JavaScript</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 45%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">for front-end</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">Jquery</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-info" role="progressbar" data-aos="zoom-in-right" data-aos-delay="300" data-aos-anchor=".skills-section" style="width: 60%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">for front-end</div>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <div class="col-md-6">
-                                <h2 class="h2 fw-light mb-4">Back end</h2>
-                                <div class="mb-3"><span class="fw-bolder">Node js</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 40%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">Strong Junior</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">Express js</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="400" data-aos-anchor=".skills-section" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">Strong Junior</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">MongoDB</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="500" data-aos-anchor=".skills-section" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">Strong Junior</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">React js</span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 25%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Strong Junior</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">React Native </span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 35%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Junior</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">Next JS </span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 40%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Junior</div>
-                                    </div>
-                                </div>
-                                <div class="mb-3"><span class="fw-bolder">Electron JS </span>
-                                    <div class="progress my-2 rounded" style="height: 20px">
-                                        <div class="progress-bar bg-secondary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="600" data-aos-anchor=".skills-section" style="width: 40%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">Junior</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="shadow-1-strong bg-white my-5 p-5" id="experience">
-                    <div class="work-experience-section">
-                        <h2 class="h2 fw-light mb-4">Work Experience</h2>
-                        <div class="timeline">
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
-                                <div class="timeline-head px-4 pt-3">
-                                    <div class="h5">Frontend Developer <span class="text-muted h6">at Creative Agency</span></div>
-                                </div>
-                                <div class="timeline-body px-4 pb-4">
-                                    <div class="text-muted text-small mb-3">May, 2020 - Present</div>
-                                    <div>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
-                                <div class="timeline-head px-4 pt-3">
-                                    <div class="h5">Junior Fullstak Developer <span class="text-muted h6">at Indie Studio</span></div>
-                                </div>
-                                <div class="timeline-body px-4 pb-4">
-                                    <div class="text-muted text-small mb-3">Jan, 2021 </div>
-                                    <div>User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="shadow-1-strong bg-white my-5 p-5" id="education">
-                    <div class="education-section">
-                        <h2 class="h2 fw-light mb-4">Education</h2>
-                        <div class="timeline">
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
-                                <div class="timeline-head px-4 pt-3">
-                                    <div class="h5">Technical school <span class="text-muted h6"></span> </div>
-                                </div>
-                                <div class="timeline-body px-4 pb-4">
-                                    <div class="text-muted text-small mb-3">2020 - 2022</div>
-                                    <div>Narpay service technical school, organized in cooperation with Samarkand State Institute of Foreign Languages, 2nd year student of "Computer Engineering"</div>
-                                </div>
-                            </div>
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="200">
-                                <div class="timeline-head px-4 pt-3">
-                                    <div class="h5">Change IT academy <span class="text-muted h6"></span> </div>
-                                </div>
-                                <div class="timeline-body px-4 pb-4">
-                                    <div class="text-muted text-small mb-3">2021 - 2022</div>
-                                    <div>Web programming course fullstak programmer</div>
-                                </div>
-                            </div>
-
-                            <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="200">
-                                <div class="timeline-head px-4 pt-3">
-                                    <div class="h5">Tashkent University of Information Technologies<span class="text-muted h6"></span>
-                                    </div>
-                                </div>
-                                <div class="timeline-body px-4 pb-4">
-                                    <div class="text-muted text-small mb-3">2022 - now</div>
-                                    <div>Computer engineering</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<h2>ℹ️ Project info</h2>
+<div>
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
 
 
+<h2>:busts_in_silhouette: How to reach me</h2>
+<a href="https://github.com/Carol42">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+</a>
+<a href="https://codepen.io/Carol42">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+</a>
+<a href="https://twitter.com/carol_heloo/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=for-the-badge&label=@Carol_Heloo&color=1DA1F2&logo=twitter" height="22px">
+</a>
+<a href="https://linkedin.com/in/carol42">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+</a>
+</a>
+<a href="mailto:carol42.helo@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+</a>
+</br>
 
+<h2>:bulb: Languages & Frameworks I code in</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="JavaScript" alt="javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="ReactJS" alt="react js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img title="NodeJS" alt="node js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+</br></br>
 
+<h2>:hammer_and_wrench: Things that help me getting my code done</h2>
+<code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+<code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code> <img title="Yarn" alt="yarn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /></code>
+<code> <img title="Heroku" alt="heroku" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+</br></br>
+<details>
+<summary>Click here for a cute surprise! :3</summary>
+<img src="https://cat-gifs.cyclic.app">
+</details>
 
+<h2>:books: My personal portfolio</h2>
+<a href="https://github.com/Carol42/portfolio">
+    <img alt="link to the repository of my personal portfolio" src="https://github-readme-stats-carol42.vercel.app/api/pin/?username=Carol42&repo=portfolio&theme=midnight-purple&hide_border=true">
+</a>
+</br>
+<a href="https://portfolio-carol42.vercel.app/">
+    <img alt="link to my portfolio" src="https://img.shields.io/static/v1?label&message=open+portfolio&color=7E3ACE&style=for-the-badge" />
+</a>
+</br></br>
 
+<h2>:notes: Now playing <!-- <a href="https://www.last.fm/user/carol-helo"><img alt="last song I've listened to" src="https://badges.lastfm.workers.dev/last-played?user=carol-helo&color=7E3ACE&logoColor=7E3ACE&label=Last+song+I've+listened+to"></a></h2>-->
+</br>
+<a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
 
+<details>
+    <summary>Recently played</summary>
+    <a href="https://open.spotify.com/user/31lnn6iv3gugv4kpc2mjusnwv7cq"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lnn6iv3gugv4kpc2mjusnwv7cq&unique=true&count=10" alt="Spotify recently played"></a>
+</details>
 
-            </div>
-        </div>
+<h3>:headphones: Albums I've listened to the most this week</h3>
+
+<!-- lastfm -->
+<p align="center"><a href="https://www.last.fm/music/Megadeth/Risk+(Expanded+Edition+-+Remastered)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6528da6f9b205d87cac083e086f32761.jpg" title="Megadeth - Risk (Expanded Edition - Remastered)"></a> <a href="https://www.last.fm/music/Blind+Guardian/A+Twist+in+the+Myth"><img src="https://lastfm.freetls.fastly.net/i/u/64s/0ca1499a97a44031a4ecf9abaa68c9c9.jpg" title="Blind Guardian - A Twist in the Myth"></a> <a href="https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d4bdd038cacbec705e269edb0fd38419.png" title="Pink Floyd - The Dark Side of the Moon"></a> <a href="https://www.last.fm/music/Amaranthe/Massive+Addictive"><img src="https://lastfm.freetls.fastly.net/i/u/64s/defabcffcf9745eec5d366aec9f0b84d.png" title="Amaranthe - Massive Addictive"></a> <a href="https://www.last.fm/music/Amon+Amarth/Jomsviking"><img src="https://lastfm.freetls.fastly.net/i/u/64s/19f7376d4cce3b489667c8a184ab2927.jpg" title="Amon Amarth - Jomsviking"></a> <a href="https://www.last.fm/music/Asking+Alexandria/From+Death+To+Destiny"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6484a5258ba208526b667823da2ad252.jpg" title="Asking Alexandria - From Death To Destiny"></a> <a href="https://www.last.fm/music/Blind+Guardian/A+Night+at+the+Opera+(Remastered+2017)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c4fe5ac0c8b1261fb947042da97ea05c.png" title="Blind Guardian - A Night at the Opera (Remastered 2017)"></a> <a href="https://www.last.fm/music/Bloodbound/Unholy+Cross"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4be0eeadd491538ae8e446c3b612d5b2.jpg" title="Bloodbound - Unholy Cross"></a> <a href="https://www.last.fm/music/Ghost/Meliora"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e2e0dd3520300674b8640f45817d8542.png" title="Ghost - Meliora"></a> <a href="https://www.last.fm/music/Ghost/Prequelle"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9344e9c24a21f641c1ed2e6a9d6afef9.jpg" title="Ghost - Prequelle"></a> <a href="https://www.last.fm/music/Megadeth/Dystopia"><img src="https://lastfm.freetls.fastly.net/i/u/64s/92f4b193feede0f5199cba506e21dcb8.jpg" title="Megadeth - Dystopia"></a> <a href="https://www.last.fm/music/Megadeth/Rust+In+Peace+(2004+Remix+%2F+Expanded+Edition)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4b5edf9b6237cc7df339949a58a89421.jpg" title="Megadeth - Rust In Peace (2004 Remix / Expanded Edition)"></a> </p>
+
+</br>
+<sup>These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow</a> written by <a href="https://github.com/melipass">@melipass</a>.</sup>
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+    <summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+    <summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+
+<h2>:octocat: My GitHub Activity</h2>
+
+:key: My GPG Public Key: [`6D1CA183558B0FF5`](https://github.com/Carol42.gpg)
+
+<h3>:bar_chart: My GitHub Stats</h3>
+<details>
+<summary>My recent activity</summary>
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 2 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
+2. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
+3. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
+4. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
+5. ⬆️ Pushed 1 commit(s) to [Carol42/actions-repo](https://github.com/Carol42/actions-repo)<br>
+6. 📔 Created new repository [Carol42/calculadora-circuitos-diodos](https://github.com/Carol42/calculadora-circuitos-diodos)<br>
+7. ⭐ Starred [rocketseat-education/nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery)<br>
+8. ⭐ Starred [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)<br>
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, December 6th, 2023, 10:00:18 PM
+<!--RECENT_ACTIVITY:last_update_end-->
+</details>
+
+<details>
+    <summary>My GitHub stats</summary>
+    <div>
+        <a href="https://github.com/Carol42">
+            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&labelColor=7E3ACE&color=181717">
+        </a>
+        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/Carol42?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
     </div>
-    <footer class="pt-4 pb-4 text-muted text-center d-print-none">
-        <div class="container">
-            <div class="my-3">
-                <div class="h4">Sukurov Temurbek</div>
-                <div class="footer-nav">
-                    <nav role="navigation">
-                        <ul class="nav justify-content-center">
-                            <li class="nav-item"><a class="nav-link" href="https://twitter.com/tempiltin" title="Twitter"><i
-                    class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/temurbekshukurov0707" title="Facebook"><i
-                    class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/tempiltin.uz" title="Instagram"><i
-                    class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="https://github.com/" title="Github"><i
-                    class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-            <div class="text-small">
-                <div class="mb-1">&copy; Temurbek Shukurov . All rights reserved.</div>
-                <div>Design - <a href="https://tempiltin.uz" target="_blank">TEMPILTIN</a></div>
-            </div>
-        </div>
-    </footer>
-    <script src="https://temp-rose.vercel.app/scripts/mdb.min.js?ver=1.2.1"></script>
-    <script src="https://temp-rose.vercel.app/scripts/aos.js?ver=1.2.1"></script>
-    <script src="https://temp-rose.vercel.app/scripts/main.js?ver=1.2.1"></script>
-</body>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api?username=Carol42&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+    </a>
+    </br>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height=180em src="https://streak-stats.demolab.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+    </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Carol42&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
+    </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=Carol42&theme=darkhub&no-frame=true&column=10">
+    </a>
+    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
+        <img src="https://github-contributor-stats.vercel.app/api?username=Carol42&theme=dark" alt="contribution stats">
+    </a>-->
+    </br>
+    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
+</details>
+    <p>You can see my full metrics <a href="https://metrics.lecoq.io/insights/Carol42">here</a>.</p>
+    <p>Also, check my octoprofile <a href="https://octoprofile.vercel.app/user?id=Carol42">here</a>!</p>
 
-</html>
+<h3> :star: My favorite GitHub Repos</h3>
+See <a href="https://github.com/Carol42/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
+
+<!-- <details>
+    <summary>Profile visitors</summary>
+    <p align="center">:round_pushpin: Profile visitors</p>
+    <div align="center">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+    </div>
+</details> -->
+
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+
+<h2>:book: Guestbook</h2>
+<p>Leave a cool message for me or just say you passed by <a href="https://github.com/Carol42/Carol42/issues/new?template=guestbook-entry.md">here</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussions</a>!</p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
