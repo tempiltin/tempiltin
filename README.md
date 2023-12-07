@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en-US">
 
 <head>
@@ -15,53 +15,11 @@
   </noscript>
     <link href="css/font-awesome/css/all.min.css?ver=1.2.1" rel="stylesheet">
     <link href="https://temp-rose.vercel.app/css/mdb.min.css?ver=1.2.1" rel="stylesheet">
-    <link href="https://temp-rose.vercel.app/css/aos.css?ver=1.2.1" rel="stylesheet">
     <link href="https://temp-rose.vercel.app/css/main.css?ver=1.2.1" rel="stylesheet">
-    <noscript>
-    <style type="text/css">
-      [data-aos] {
-        opacity: 1 !important;
-        transform: translate(0) scale(1) !important;
-      }
-    </style>
-  </noscript>
+
 </head>
 
-<body class="bg-light" id="top">
-    <header class="d-print-none">
-        <div class="container text-center text-lg-left">
-            <div class="pt-4 clearfix">
-                <h1 class="site-title mb-0">Shukurov Temurbek</h1>
-                <div class="site-nav">
-                    <nav role="navigation">
-                        <ul class="nav justify-content-center">
-                            <li class="nav-item"><a class="nav-link" href="#about" title="About"><span
-                    class="menu-title">About</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="#skills" title="Skills"><span
-                    class="menu-title">Skills</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="#experience" title="Experience"><span
-                    class="menu-title">Experience</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="#education" title="Education"><span
-                    class="menu-title">Education</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="#portfolio" title="Portfolio"><span
-                    class="menu-title">Portfolio</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="#references" title="References"><span
-                    class="menu-title">References</span></a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link" href="#contact" title="Contact"><span
-                    class="menu-title">Contact</span></a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
+<body>
     <div class="page-content">
         <div class="container">
             <div class="resume-container">
@@ -144,8 +102,6 @@
                         </div>
                     </div>
                 </div>
-
-
                 <div class="shadow-1-strong bg-white my-5 p-5" id="skills">
                     <div class="skills-section">
                         <h2 class="h2 fw-light mb-4">Professional Skills</h2>
@@ -278,191 +234,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="shadow-1-strong bg-white my-5 p-5 d-print-none" id="portfolio">
-                    <div class="portfolio-section">
-                        <h2 class="h2 fw-light mb-4">Portfolio / Front-end</h2>
-                        <div class="row g-0">
-                            <div class="col-md-6">
-                                <a href="https://tempiltin-anyar.netlify.app/" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/Screenshot_1.png" width="800" height="500" /></a>
-                            </div>
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
-                                <div class="m-4 mt-md-2">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <h3>ANYAR Website</h3>
-                                    <p class="text-muted">Built highly performant website front end for a amateur. Delivered codebase in HTML, CSS and modern JavaScript.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row g-0 portfolio-reverse">
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                                <div class="m-4 mt-md-2 text-end">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <h3>ARSHA</h3>
-                                    <p class="text-muted">Built highly performant website front end for a amateur. Delivered codebase in HTML, CSS and modern JavaScript.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <a href="https://tempiltin-arsha.netlify.app/" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/Screenshot_2.png" width="800" height="500" /></a>
-                            </div>
-                        </div>
-                        <div class="row g-0">
-                            <div class="col-md-6">
-                                <a href="https://tempiltin-bizpage.netlify.app/" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/Screenshot_3.png" width="800" height="500" /></a>
-                            </div>
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
-                                <div class="m-4 mt-md-2">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <h3>Business Website</h3>
-                                    <p class="text-muted">Built highly performant website for an Business. Worked with back-end team to timely deliver codebase in HTML, CSS and modern JavaScript.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row g-0 portfolio-reverse">
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                                <div class="m-4 mt-md-2 text-end">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <h3>Mens Shop Website</h3>
-                                    <p class="text-muted">Built highly performant website front end for Online Shopping a amateur. Delivered codebase in HTML, CSS and modern JavaScript.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <a href="https://minshop-tempiltin.netlify.app/" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/Screenshot_11.png" width="800" height="500" /></a>
-                            </div>
-                        </div>
-                        <div class="row g-0">
-                            <div class="col-md-6">
-                                <a href="https://tempiltin-figma.netlify.app/" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/Screenshot_10.png" width="800" height="500" /></a>
-                            </div>
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
-                                <div class="m-4 mt-md-2">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <h3>Trevland Website</h3>
-                                    <p class="text-muted">Built highly performant website for an Trevland. Worked with back-end team to timely deliver codebase in HTML, CSS and modern JavaScript.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row g-0 portfolio-reverse">
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                                <div class="m-4 mt-md-2 text-end">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <h3>Click clon Website</h3>
-                                    <p class="text-muted">Built highly performant website front end for Click clon a amateur. Delivered codebase in HTML, CSS and modern JavaScript.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <a href="https://tempiltin-click-clon.netlify.app/" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/Screenshot_8.png" width="800" height="500" /></a>
-                            </div>
-                        </div>
-                        <div class="row g-0">
-                            <div class="col-md-6">
-                                <a href="https://xbook-uz.netlify.app/" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/Screenshot_12.png" width="800" height="500" /></a>
-                            </div>
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
-                                <div class="m-4 mt-md-2">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <h3>X-book Website</h3>
-                                    <p class="text-muted">Built highly performant website for an Trevland.work is underway on this project.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
 
 
 
-                <div class="shadow-1-strong bg-white my-5 p-5 d-print-none">
-                    <div class="portfolio-section">
-                        <h2 class="h2 fw-light mb-4">Portfolio / Back-end</h2>
-                        <div class="row g-0">
-                            <div class="col-md-6">
-                                <a href="#!" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/bookstore.jfif" width="800" height="500" /></a>
-                            </div>
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
-                                <div class="m-4 mt-md-2">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery </p>
-                                    <p class="text-teal text-small"> Backend / Node js / Express js / MongoDB </p>
-                                    <h3>Book Store</h3>
-                                    <p class="text-muted">work is underway on this project</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row g-0 portfolio-reverse">
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                                <div class="m-4 mt-md-2 text-end">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / Bootstrap5/ JavaScript / Jquery</p>
-                                    <p class="text-teal text-small"> Backend / Node js / Express js / MongoDB </p>
-                                    <h3>Fasfod</h3>
-                                    <p class="text-muted">work is underway on this project</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <a href="#!" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/fasfos.jfif" width="800" height="500" /></a>
-                            </div>
-                        </div>
-
-                        <div class="row g-0">
-                            <div class="col-md-6">
-                                <a href="#!" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/ip.png" width="800" height="500" /></a>
-                            </div>
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
-                                <div class="m-4 mt-md-2">
-                                    <p class="text-teal text-small">Frontend / HTML / CSS / JavaScript / React </p>
-                                    <p class="text-teal text-small"> Backend / Node js / Express js / MongoDB </p>
-                                    <h3>Get IP Address</h3>
-                                    <p class="text-muted">The project is partially completed</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row g-0 portfolio-reverse">
-                            <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                                <div class="m-4 mt-md-2 text-end">
-                                    <p class="text-teal text-small">Frontend / React.JS</p>
-                                    <p class="text-teal text-small"> Backend / Node js / Express js / MongoDB </p>
-                                    <h3>Escporject UZ</h3>
-                                    <p class="text-muted">This project is commissioned</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <a href="#!" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/escprojrct.png" width="800" height="500" /></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row g-0">
-                        <div class="col-md-6">
-                            <a href="#!" target="_blank"><img class="img-fluid" src="https://temp-rose.vercel.app/images/portfolio/m.png" width="800" height="500" /></a>
-                        </div>
-                        <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
-                            <div class="m-4 mt-md-2">
-                                <p class="text-teal text-small">Frontend / React </p>
-                                <p class="text-teal text-small"> Backend / Node js / Express js / MongoDB </p>
-                                <h3>Mehribon Shop</h3>
-                                <p class="text-muted">This project is commissioned</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
 
-             
-                <div class="shadow-1-strong bg-white my-5 p-5" id="contact">
-                    <div class="contant-section">
-                        <h2 class="h2 fw-light text mb-4">Contact</h2>
-                        <div class="row mb-4">
-                            <div class="col-md-5" data-aos="fade-left" data-aos-delay="200">
-                                <iframe class="form_contact m-1" src="https://contact-form-tempiltin.vercel.app/" frameborder="0"></iframe>
-                            </div>
-                            <div class="col-md-7 d-print-none" data-aos="zoom-in" data-aos-delay="100">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98316.86287068897!2d66.89784737358313!3d39.64066731892678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3f4d191960077df7%3A0x487636d9d13f2f57!2sSamarqand%2C%20O%60zbekiston!5e0!3m2!1suz!2s!4v1644842085297!5m2!1suz!2s"
-                                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+
             </div>
         </div>
     </div>
