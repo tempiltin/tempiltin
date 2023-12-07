@@ -11,18 +11,18 @@
 
 
 
-<h2>:Contact me</h2>
+<h2>Contact me</h2>
 <a href="https://github.com/tempiltin">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@tempiltin" height="22px">
 </a>
 
 
 <a href="https://linkedin.com/in/Temurbekshukurov">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/tempiltin&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:temurbekshukurov0707@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=temurbekshukurov0707@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 
