@@ -63,7 +63,7 @@ const tempiltin = {
 ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-black?style=for-the-badge&logo=kali-linux)
 ![Pentesting](https://img.shields.io/badge/-Pentesting-black?style=for-the-badge&logo=hackaday)
-![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName)
+![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:Arch-Linux)
 
 </div>
 
