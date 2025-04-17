@@ -54,7 +54,7 @@ const tempiltin = {
 ![Electron](https://img.shields.io/badge/-Electron-black?style=for-the-badge&logo=electron)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,androidstudio,arch,atom,aws,bash,bootstrap,cpp,cloudflare,dart,electron,express,fastapi,figma,firebase,gcp,git,github,gitlab,go,gulp,heroku,idea,js,kali,less,linux,md,materialui,matlab,mongodb,mysql,nestjs,netlify,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,ps,phpstorm,postman,powershell,prisma,pug,pycharm,py,react,redux,sass,sublime,tailwind,tensorflow,threejs,ts,ubuntu,vercel,vite,visualstudio,vue,webstorm," />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,androidstudio,arch,atom,aws,bash,bootstrap,cpp,cloudflare,dart,electron,express,fastapi,figma,firebase,gcp,git,github,gitlab,go,gulp,heroku,idea,js,kali,less,linux,md,materialui,matlab,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,notion,npm,nuxtjs,ps,phpstorm,postman,powershell,prisma,pug,pycharm,py,react,redux,sass,sublime,tailwind,tensorflow,threejs,ts,ubuntu,vercel,vite,visualstudio,vue,webstorm," />
   </a>
 </p>
 </div>
