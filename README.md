@@ -97,23 +97,7 @@ const tempiltin = {
 
 
 
-<h1 align="center">Hi there, I'm Jamshid 👋 </h1> 
 
-
-
-
-
-<p align="center">
- <a href="#" alt="Jamshid's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=feylon&theme=tokyonight&show_icons=true" />
-
- </a>
-</p>
-<!-- ---- -->
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feylon&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />  
-
-</p>  
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
