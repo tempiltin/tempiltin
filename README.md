@@ -71,16 +71,7 @@ const tempiltin = {
 ![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:Arch-Linux)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tempiltin&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tempiltin&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600)
-
-
-</div>
+>
 
 ## 📫 Connect with Me
 
