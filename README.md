@@ -60,18 +60,7 @@ const tempiltin = {
 </p>
 </div>
 
-## 🛡️ Security Tools
 
-<div align="center">
-
-![Nmap](https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=windows-terminal)
-![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-black?style=for-the-badge&logo=kali-linux)
-![Pentesting](https://img.shields.io/badge/-Pentesting-black?style=for-the-badge&logo=hackaday)
-![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:Arch-Linux)
-
-</div>
->
 
 ## 📫 Connect with Me
 
