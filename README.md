@@ -67,8 +67,6 @@ const tempiltin = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-@tempiltin-black?style=for-the-badge&logo=github)](https://github.com/tempiltin)
-[![LinkedIn](https://img.shields.io/badge/-Temurbek_Shukurov-black?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Temurbekshukurov)
-[![Email](https://img.shields.io/badge/-Send_Email-black?style=for-the-badge&logo=gmail)](mailto:temurbekshukurov0707@gmail.com)
 
 </div>
 
